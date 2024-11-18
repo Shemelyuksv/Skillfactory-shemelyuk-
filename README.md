@@ -1,1 +1,2 @@
 # Skillfactory-shemelyuk-
+# Test stroke
